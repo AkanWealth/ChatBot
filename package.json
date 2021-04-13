@@ -1,5 +1,5 @@
 {
-    "name": "server-side",
+    "name": "ChatBot",
     "version": "1.0.0",
     "description": "This is a chat app with rooms",
     "main": "app.js",
